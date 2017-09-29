@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/59325dc15dbb44b2440000af/train/java
